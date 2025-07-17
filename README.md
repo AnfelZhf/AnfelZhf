@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahaf Anfel</h1>
-<h3 align="center">Software engineer</h3>
+<h3 align="center">Software Engineer working in web development using Java, Spring Boot, Python, and Django, with a strong passion for AI and large language models (LLMs).</h3>
 
 <p align="left">
 </p>
